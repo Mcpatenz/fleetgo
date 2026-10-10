@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "FleetGo",
+    "slug": "fleetgo",
+    "scheme": "fleetgo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

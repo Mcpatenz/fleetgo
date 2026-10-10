@@ -1,0 +1,11 @@
+{
+  "name": "fleetgo",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "dev:api": "npm --prefix apps/api run dev",
+    "dev:mobile": "npm --prefix apps/mobile run start"
+  }
+}
